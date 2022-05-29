@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Wheels & Tires",
+        "price": "999",
+        "description": "They consist of a tread and a body. The tread provides traction while the body provides containment for a quantity of compressed air. Before rubber was developed, arly rubber tires were solid not pneumatic",
+        "img": "https://i.ibb.co/p383g03/18-5-y-spoke-silver-winter-wheels-tyres-xc60-2018-2022-winter-tyre-michelin-pilot-alpin-5-suv-8730-p.jpg",
+        "available_quantity": "200",
+        "minimum_order": "10"
+    },
+    {
+        "name": "Brake Kits",
+        "price": "499",
+        "description": "A brake kit lets you upgrade a vehicle's braking system for a single price. Kits usually include rotors, calipers, and pads. These in-the-box systems are specialized and suited to particular vehicle uses.",
+        "img": "https://i.ibb.co/6WHYqC0/61qu-HUXKVb-L-AC-SL1500.jpg",
+        "available_quantity": "200",
+        "minimum_order": "10"
+    },
+    {
+        "name": "Engine Parts",
+        "price": "599",
+        "description": "A typical internal combustion engine has around 200 parts that need to be maintained and possibly replaced if they wear out. An electric vehicle takes that number down to around 20 parts.",
+        "img": "https://i.ibb.co/6gSmRhV/istockphoto-1212230930-612x612.jpg",
+        "available_quantity": "200",
+        "minimum_order": "10"
+    },
+    {
+        "name": "Suspension & Steering",
+        "price": "180",
+        "description": "The suspension system supports the weight of your vehicle, provides a smooth ride and creates stable road control, drivability and handling. The steering system provides directional control of your car.",
+        "img": "https://i.ibb.co/Ryfv5P9/suspension-with-rack-pinion-steering.jpg",
+        "available_quantity": "200",
+        "minimum_order": "10"
+    },
+    {
+        "name": "Auto Car Compass",
+        "price": "100",
+        "description": "A car compass installed on your dashboard can literally point you in the right direction while on the road. The best car compass will help you determine the direction you are heading so you don't have to rely on your mobile phone, physical features, or maps for directions while driving.",
+        "img": "https://i.ibb.co/y0L7CRY/51b-GQ1l-R-LL-AC-SX425.jpg",
+        "available_quantity": "200",
+        "minimum_order": "10"
+    },
+    {
+        "name": "Brake Shoes",
+        "price": "300",
+        "description": "An Electric light is a device that produces visible light from electric power. It is the most common form of artificial lighting and is essential to modern society.",
+        "img": "https://i.ibb.co/pwVV1Fn/brake-shoes-500x500.jpg",
+        "available_quantity": "200",
+        "minimum_order": "10"
+    }
+]
